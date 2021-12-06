@@ -1,2 +1,2 @@
-# api-optativa
-Atividade de implementação de api com Flask e Mysql
+# optativa-2021
+Aula - Disciplina Optativa 2021
